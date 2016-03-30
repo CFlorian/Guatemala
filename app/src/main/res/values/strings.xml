@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Guatemala</string>
+    <string name="hola">Hola mundo</string>
+    <string name="total">El total es 0</string>
+    <string name="comando">ingrese un comando</string>
+    <string name="ejecuta_comando">ejecutar comando</string>
+    <string name="guate">Guate</string>
+    <string name="boton_toggle">Botón toggle</string>
+    <string name="envia_correo">Enviar correo</string>
+    <string name="intro">Introducción</string>
+    <string name="direccion_correo">Direccion_correo</string>
+    <string name="gusta_leer">Que te gusta leer</string>
+    <string name="nombre_persona">Nombre Persona</string>
+    <string name="gusta_hacer">Que te gusta hacer</string>
+    <string name="gusta_comer">Que te gusta comer</string>
+    <string name="set_wallpaper">Set_wallpaper</string>
+    <string name="imagen">imagen</string>
+</resources>
